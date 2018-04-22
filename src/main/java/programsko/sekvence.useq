@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.2" icons="true" automaticImage="PNG" generate-combined-fragments="true">  
+  <object id="1" language="java" name="programsko.Guii" project="programsko" 
+    file="/programsko/src/main/java/programsko/Guii.java" binary="false" label="guii" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="145" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="programsko.UcitajPodatke" project="programsko" 
+    file="/programsko/src/main/java/programsko/UcitajPodatke.java" binary="false" label="ucitajPodatke" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>
+</sequence-diagram>
